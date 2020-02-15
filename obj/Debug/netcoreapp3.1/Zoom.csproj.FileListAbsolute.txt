@@ -1,0 +1,11 @@
+/Users/Reshma/Documents/Zoom/bin/Debug/netcoreapp3.1/Zoom
+/Users/Reshma/Documents/Zoom/bin/Debug/netcoreapp3.1/Zoom.deps.json
+/Users/Reshma/Documents/Zoom/bin/Debug/netcoreapp3.1/Zoom.runtimeconfig.json
+/Users/Reshma/Documents/Zoom/bin/Debug/netcoreapp3.1/Zoom.runtimeconfig.dev.json
+/Users/Reshma/Documents/Zoom/bin/Debug/netcoreapp3.1/Zoom.dll
+/Users/Reshma/Documents/Zoom/bin/Debug/netcoreapp3.1/Zoom.pdb
+/Users/Reshma/Documents/Zoom/obj/Debug/netcoreapp3.1/Zoom.csprojAssemblyReference.cache
+/Users/Reshma/Documents/Zoom/obj/Debug/netcoreapp3.1/Zoom.AssemblyInfoInputs.cache
+/Users/Reshma/Documents/Zoom/obj/Debug/netcoreapp3.1/Zoom.AssemblyInfo.cs
+/Users/Reshma/Documents/Zoom/obj/Debug/netcoreapp3.1/Zoom.dll
+/Users/Reshma/Documents/Zoom/obj/Debug/netcoreapp3.1/Zoom.pdb
